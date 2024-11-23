@@ -3,7 +3,8 @@ Hi these are some dotfiles i think configured with dotbot to help me with some o
 
 To install 
 
-git clone git@github.com:efffectery/dotfiles.git --recursive
+git clone git@github.com:efffectery/dotfiles.git --recursive 
+
 cd dotfiles && ./install
 
 hope it works first time and helps
